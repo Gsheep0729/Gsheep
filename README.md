@@ -9,7 +9,18 @@
 > “代码是最好的老师，硬件是最好的伙伴。”
 > *Code is the best teacher, and hardware is the best partner.*
 
-🌐 **个人网站**：[gsheep.cn](https://www.gsheep.cn)
+---
+
+### 📝 Blog & Tutorials (博客与教程)
+
+> 🚀 **All my latest tutorials live here! / 所有最新硬核教程均首发于此！**
+
+[![Visit My Blog](https://img.shields.io/badge/Visit_My_Blog-gsheep.cn-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.gsheep.cn)
+
+- 我会不定时更新一些有用的教程。
+
+* **本站技术栈 (Tech Stack)**:
+    * 该博客本身也是一个开源项目 [portfolio](https://github.com/Gsheep0729/portfolio)，基于 **Next.js 15**、**React 19** 和 **Tailwind CSS v4** 构建，集成了 i18n 国际化支持。
 
 ---
 
@@ -54,13 +65,6 @@
 1.  **深入 STM32**: 正在从 51 单片机向 ARM Cortex-M3 架构迁移，攻克中断控制器、DMA 和 RTOS。
 2.  **C++23 Modules**: 在项目中尝试使用 Modern C++ 的模块化特性 (`import std;`) 替代传统头文件。
 3.  **Linux Kernel**: 尝试理解 Linux 驱动模型，通过 Shell 脚本和 C 语言优化系统工具。
-
----
-
-### 📊 GitHub Stats
-
-![Gsheep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gsheep0729&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsheep0729&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
